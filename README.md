@@ -1,2 +1,2 @@
-# python-study
+# python-django study
 python django
