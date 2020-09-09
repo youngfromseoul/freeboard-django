@@ -1,2 +1,2 @@
 # python-django study
-python django
+freeboard study
